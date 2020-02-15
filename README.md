@@ -10,3 +10,6 @@ Version 100.2
 - replaced current index.html and styles.css with NetNinja's index.html and styles.css files
 -cloned image folder with images in them to repo from NetNinja's repo
 -deleted the menu.js file
+
+Version 100.3
+- updated the styles.css with some Media Queries
