@@ -13,3 +13,6 @@ Version 100.2
 
 Version 100.3
 - updated the styles.css with some Media Queries
+
+Version 100.4
+-updated media queries max width in styles.css 
