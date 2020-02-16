@@ -19,3 +19,6 @@ Version 100.4
 
 Verson 100.5
 -updated styles.css tablet media queries
+
+Verson 100.5
+-updated styles.css mobile media queries
