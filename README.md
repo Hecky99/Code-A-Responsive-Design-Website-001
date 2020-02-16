@@ -16,3 +16,6 @@ Version 100.3
 
 Version 100.4
 -updated media queries max width in styles.css 
+
+Verson 100.5
+-updated styles.css tablet media queries
