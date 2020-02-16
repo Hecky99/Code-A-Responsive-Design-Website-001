@@ -26,3 +26,7 @@ Verson 100.5
 Verson 100.6
 -updated styles.css mobile media queries
 -added menu.js file to project with some code in the file
+
+Verson 100.6
+-updated index.html with some script tags
+-updated the styles.css by removing #main-banner img tag
