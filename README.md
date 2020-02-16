@@ -22,3 +22,7 @@ Verson 100.5
 
 Verson 100.5
 -updated styles.css mobile media queries
+
+Verson 100.6
+-updated styles.css mobile media queries
+-added menu.js file to project with some code in the file
